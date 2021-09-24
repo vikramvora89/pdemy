@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "ysolgeionvcthk",
-    "password": "4d4a98f10505774054b0a210bec01c4915d2ecd5ac2527a6a3fd3b9e47b7a2f8",
-    "database": "d6rumlmipjcus",
-    "host": "ec2-34-247-151-118.eu-west-1.compute.amazonaws.com",
+    "username": "ubuntu",
+    "password": "edemy1234",
+    "database": "edemy_db_dev3",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "ysolgeionvcthk",
-    "password": "4d4a98f10505774054b0a210bec01c4915d2ecd5ac2527a6a3fd3b9e47b7a2f8",
-    "database": "d6rumlmipjcus",
-    "host": "ec2-34-247-151-118.eu-west-1.compute.amazonaws.com",
+    "username": "ubuntu",
+    "password": "edemy1234",
+    "database": "edemy_db_dev3",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
-    "username": "ysolgeionvcthk",
-    "password": "4d4a98f10505774054b0a210bec01c4915d2ecd5ac2527a6a3fd3b9e47b7a2f8",
-    "database": "d6rumlmipjcus",
-    "host": "ec2-34-247-151-118.eu-west-1.compute.amazonaws.com",
+    "username": "ubuntu",
+    "password": "edemy1234",
+    "database": "edemy_db_dev3",
+    "host": "127.0.0.1",
     "dialect": "postgres"
   }
 }
