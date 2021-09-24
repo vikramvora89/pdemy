@@ -6,7 +6,9 @@
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
-		"start": "next start -p 3040"
+		"start": "next start",
+		"start:prod": "next start -p 80",
+		"start": "next build && next export"		
 	},
 	"author": "EnvyTheme.com",
 	"license": "ISC",
